@@ -1,29 +1,29 @@
-# Titanic Data Analysis
+# Titanic Data Analysis (Python Project)
 
-## Project Overview
-This project performs data cleaning, exploratory data analysis (EDA), and visualization on the Titanic dataset using Python.
+## Overview
+This project analyzes the Titanic dataset to find patterns related to passenger survival using data analysis techniques.
 
-## Technologies Used
+## Tools Used
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 
-## Tasks Performed
-- Handling missing values
-- Data cleaning
-- Exploratory data analysis
-- Data visualization
-- Saving cleaned data
+## Key Insights
+- Survival rate comparison between male and female passengers
+- Impact of passenger class on survival
+- Age and fare distribution analysis
+- Data cleaning and missing value handling
 
-## Visualizations
-- Survival Count
-- Passenger Class Distribution
-- Age Distribution
-- Fare Distribution
+## What I did in this project
+- Cleaned raw dataset
+- Handled missing values
+- Performed exploratory data analysis (EDA)
+- Created visualizations to understand patterns
+- Generated insights from data
 
-## Dataset
-Titanic dataset from Kaggle.
+## Result
+This project demonstrates my ability to analyze real-world datasets and extract meaningful insights.
 
 ## Author
 Abdullah Masood
